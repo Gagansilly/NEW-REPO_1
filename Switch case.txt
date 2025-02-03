@@ -32,7 +32,7 @@ public class week {
                 System.out.println("Sunday");
                 break;
             default:
-                System.out.println("There only 7 days a week");
+                System.out.println("Invaild Input");
 
         }
     }
